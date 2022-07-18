@@ -1,8 +1,8 @@
 {
    "env":{
       "HRMPortal":"https://opensource-demo.orangehrmlive.com/",
-      "username":"",
-      "password":""
+      "username":"Admin",
+      "password":"admin123"
 
    },
 
