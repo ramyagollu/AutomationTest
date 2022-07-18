@@ -1,0 +1,13 @@
+{
+   "env":{
+      "HRMPortal":"https://opensource-demo.orangehrmlive.com/",
+      "username":"",
+      "password":""
+
+   },
+
+   "chromeWebSecurity": true,
+   "screenshotOnRunFailure": true,
+   "trashAssetsBeforeRuns": true
+   
+}

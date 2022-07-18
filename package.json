@@ -1,0 +1,16 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "opencypress": "cypress open",
+    "testscripts": "npm run test -- --spec \"cypress/integration/testscripts/*\""
+  },
+  "author": "Shweta",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress-xpath": "^1.6.2"
+  }
+}
+
