@@ -9,5 +9,5 @@ describe("Login feature", function(){
        
     })
 
-    console.log("logged in")
+    console.log("Welcome to Capgemini!!")
 })
